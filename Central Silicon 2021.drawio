@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-26T19:09:24.431Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3947.100 Safari/537.36" etag="woR5T1QOEIN4x-y4l4y1" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-26T19:15:23.082Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3947.100 Safari/537.36" etag="NPkwN9K2sjPNbWkzD8FB" version="13.7.3" type="github">
   <diagram id="UebUpHDUMXlgZD6PfALJ" name="Page-1">
     <mxGraphModel dx="1331" dy="765" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -12,6 +12,18 @@
         </mxCell>
         <mxCell id="bzAe-yrNS89ouH65JRRB-5" value="&lt;font color=&quot;#000000&quot;&gt;GIGE CAM SYS&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=1;labelBackgroundColor=none;fontSize=24;align=left;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#3333FF;strokeWidth=1;gradientColor=#FF33FF;" parent="1" vertex="1">
           <mxGeometry x="21" y="1192" width="795" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="QNE9blMv8LStsoNGnqV4-1" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=1;labelBackgroundColor=none;strokeWidth=1;fontSize=24;align=left;fillColor=#1ba1e2;fontColor=#ffffff;gradientColor=#ffffff;arcSize=2;strokeColor=#99FFFF;" vertex="1" parent="1">
+          <mxGeometry x="197" y="1304" width="619" height="359" as="geometry" />
+        </mxCell>
+        <mxCell id="QNE9blMv8LStsoNGnqV4-2" value="&lt;font color=&quot;#1a1a1a&quot;&gt;工业级系统&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=1;labelBackgroundColor=none;strokeWidth=1;fontSize=24;align=center;fontColor=#ffffff;arcSize=2;fillColor=#1ba1e2;gradientColor=#ffffff;strokeColor=#009999;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="12" y="1308" width="179" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="QNE9blMv8LStsoNGnqV4-3" value="&lt;font color=&quot;#1a1a1a&quot; style=&quot;font-size: 12px&quot;&gt;系统参数&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=1;labelBackgroundColor=none;strokeWidth=1;fontSize=24;align=left;fontColor=#ffffff;arcSize=2;fillColor=#1ba1e2;gradientColor=#ffffff;strokeColor=#009999;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="2" y="1668" width="179" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="QNE9blMv8LStsoNGnqV4-4" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=1;labelBackgroundColor=none;strokeWidth=1;fontSize=24;align=left;fillColor=#1ba1e2;fontColor=#ffffff;gradientColor=#ffffff;arcSize=2;strokeColor=#99FFFF;opacity=80;perimeterSpacing=5;" vertex="1" parent="1">
+          <mxGeometry x="5" y="1705" width="811" height="623" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
